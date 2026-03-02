@@ -39,7 +39,7 @@ bank_churn_app/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Therm1te/Bank-Churn-Prediction-MLOps
 cd Bank-Churn-Prediction-MLOps
 ```
 
